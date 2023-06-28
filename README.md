@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Praveen
 - 👀 I’m interested in AI/ML on AWS
-- 🌱 I’m currently learning CNNs, ResNets and Transformers
+- 🌱 I’m currently learning Transformers, LLMs, Hosting LLMs, Building LLM apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
